@@ -18,6 +18,11 @@ $ pip install requests
 $ git clone https://github.com/MrPYTHONI/cloudfront_cloudflare_Scan
 
 $ cd cloudfront_cloudflare_Scan
+
 $ python3 cloudflare.py
+
 $ To show the results after completing the cloudflaer websocket domain scan Show results, just use this command 
+
 $ cat cloudflare_free.txt
+
+
