@@ -6,7 +6,8 @@ The tool runs on two systems and uses two Python commands. To use websocket and 
 1- python3 cloudflare.py 
 
 If you want to use Amazon Cloudfront domain scanning, you must use the 
-2- python3 cloudfront.py 
+2- python3 cloudfront.py
+
 command. Each order has a command to show results. If you scanned Websocket and Cloudflare, after the scan is finished to view the results, use the following command. 
 
 $ cat Cloudflare_Free.txt
