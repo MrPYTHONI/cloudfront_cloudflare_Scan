@@ -41,6 +41,6 @@ $ python3 cloudfront.py
 
 $ cat cloudflare_free.txt
 
-$ Cloudfront_Free.txt
+$ cat cloudfront_free.txt
 
 
