@@ -9,11 +9,13 @@ If you want to use Amazon Cloudfront domain scanning, you must use the
 2- python3 cloudfront.py
 
 command. Each order has a command to show results. If you scanned Websocket and Cloudflare, after the scan is finished to view the results, use the following command. 
+1- {cat Cloudflare_Free.txt}
 
-$ cat Cloudflare_Free.txt
+
 To show the results, if you scan an Amazon Cloudfront domain, to show the results, use the following command 
-$cat cloudfront_free.txt
-$When using the tool and running any command related to range scanning, wait until the correct process is completed. The tool should be running on the screen. You must follow the instructions correctly ♥
+2- {cat cloudfront_free.txt}
+
+$ When using the tool and running any command related to range scanning, wait until the correct process is completed. The tool should be running on the screen. You must follow the instructions correctly ♥
 
 # Usage
 $ pkg install git
